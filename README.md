@@ -17,6 +17,6 @@ I'm currently pursuing my journey as an AI Engineer, where I'm diving deep into 
 - Feel free to connect with me to discuss technology, AI, ML, DevOps, or just about anything innovative. I'm always open to sharing ideas and collaborating on exciting projects.
 
 ### Portfolio is coming...
-'''
+```
 https://www.linkedin.com/in/alejandro-sierraalta-2a2b86140/
-'''
+```
